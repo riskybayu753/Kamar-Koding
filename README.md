@@ -1,4 +1,4 @@
-# Kamar-Koding
-
-Gunakan dengan Bijak 
-dari Ilham Bayu Risky N.A 
+# KamarKoding
+KamarKoding adalah media belajar berbasi website yang khusus meningkatkan skill menjadi seorang Programmer.
+///////////////////////////////
+note: quiz untuk user text lenght yang sangat kecil
